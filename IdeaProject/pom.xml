@@ -79,7 +79,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.18</version>
+            <version>8.0.28</version>
         </dependency>
         <!--支持数据库连接MySQL结束-->
         <!--支持数据库连接mybatis开始-->
@@ -116,7 +116,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>8.0.19</version>
+                        <version>8.0.28</version>
                     </dependency>
                 </dependencies>
                 <configuration>
